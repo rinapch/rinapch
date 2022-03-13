@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rinapch/rinapch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-### Hi there 👋
-
 - 🔭 I’m currently working on custom controllable text generation modek
 - 🌱 I’m currently learning NLP and RL
 - 📫 How to reach me: arina.pchkva@gmail.com
