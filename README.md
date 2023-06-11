@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on custom controllable text generation model
-- 🌱 I’m currently learning NLP and RL
-- 📫 How to reach me: arina.pchkva@gmail.com
+I'm Rina and I train models. 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rinapch&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rinapch&theme=dark)](https://git.io/streak-stats)
