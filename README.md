@@ -6,4 +6,4 @@ Hi there 👾 I am Rina and I:
 - 💖 love learning more about NLP and ML system design 
 - 🌱 want to study distrubuted training and optimizations for LLMs
 
-[![](https://imgur.com/n4L6WHo)](https://imgur.com/n4L6WHo)https://imgur.com/n4L6WHo
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/CmJbGFG" data-context="false" ><a href="//imgur.com/a/CmJbGFG"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
